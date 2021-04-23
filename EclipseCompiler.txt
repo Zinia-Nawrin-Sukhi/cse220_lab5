@@ -1,0 +1,27 @@
+1 Jul 2019 21:12:25 GMT: Log 'EclipseCompiler.txt' opened: 1 Jul 2019 21:12:25 GMT with name E:\CSE220\lab\L5\EclipseCompiler.txt
+1 Jul 2019 21:15:00 GMT: diagnostics = javax.tools.DiagnosticCollector@552dd9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@143a940
+fileObjects = [E:\CSE220\lab\L5\DoublyList.java, E:\CSE220\lab\L5\Node.java, E:\CSE220\lab\L5\DoublyListTester.java]
+1 Jul 2019 21:15:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16debf8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\L5;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+1 Jul 2019 21:15:01 GMT: Compiler call returned
+1 Jul 2019 21:15:23 GMT: diagnostics = javax.tools.DiagnosticCollector@57507b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@bc7a9d
+fileObjects = [E:\CSE220\lab\L5\DoublyList.java, E:\CSE220\lab\L5\Node.java, E:\CSE220\lab\L5\DoublyListTester.java]
+1 Jul 2019 21:15:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c2cfa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\L5;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+1 Jul 2019 21:15:23 GMT: Compiler call returned
+1 Jul 2019 21:15:41 GMT: diagnostics = javax.tools.DiagnosticCollector@677a5b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10d2c6f
+fileObjects = [E:\CSE220\lab\L5\DoublyList.java, E:\CSE220\lab\L5\Node.java, E:\CSE220\lab\L5\DoublyListTester.java]
+1 Jul 2019 21:15:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f781bf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\L5;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+1 Jul 2019 21:15:41 GMT: Compiler call returned
+1 Jul 2019 21:20:08 GMT: diagnostics = javax.tools.DiagnosticCollector@8c818
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3e0377
+fileObjects = [E:\CSE220\lab\L5\DoublyList.java, E:\CSE220\lab\L5\Node.java, E:\CSE220\lab\L5\DoublyListTester.java]
+1 Jul 2019 21:20:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f29d46' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\L5;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+1 Jul 2019 21:20:09 GMT: Compiler call returned
+1 Jul 2019 21:20:47 GMT: diagnostics = javax.tools.DiagnosticCollector@1182c39
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1bcfe82
+fileObjects = [E:\CSE220\lab\L5\Node.java, E:\CSE220\lab\L5\DoublyListTester.java, E:\CSE220\lab\L5\DoublyList.java]
+1 Jul 2019 21:20:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@188e91a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\L5;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+1 Jul 2019 21:20:47 GMT: Compiler call returned
+2 Jul 2019 2:35:51 GMT: Log 'EclipseCompiler.txt' opened: 2 Jul 2019 2:35:51 GMT with name E:\CSE220\lab\L5\EclipseCompiler.txt
